@@ -3,6 +3,7 @@
 # Installation
 >create virtual environment:
 ```bash
+cd answers
 python -m venv venv
 source ./venv/bin/activate
 ```
